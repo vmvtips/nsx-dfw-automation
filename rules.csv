@@ -1,0 +1,4 @@
+SectionName,Section ID,RuleStatus,RuleName,RuleID,SourceName,DestinationName,ServiceName,Action,Direction,Log
+Test,1001,Enabled,Test-Rule-1,1011,SG-Src-1,SG-Dst-1,SVC-Test-1,allow,in,FALSE
+Test,1001,Enabled,Test-Rule-2,1011,SG-Src-2,SG-Dst-2,SVC-Test-2,allow,out,FALSE
+Test,1001,Enabled,Test-Rule-3,1011,SG-Src-3,SG-Dst-3,SVC-Test-3,allow,inout,FALSE
